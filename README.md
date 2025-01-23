@@ -1,6 +1,10 @@
 ## Hi 👋  I am Daniiar Abdraiymov 
 
 
+# Web Developer
+![Profile Views](https://komarev.com/ghpvc/?username=daniiar-pro&color=brightgreen&style=flat)
+![WakaTime Badge](https://wakatime.com/badge/user/24e9ec71-5b76-41cc-a71a-68b4e7f40e39.svg)
+
 ### 👨‍💻 About me
 - 🔭 I’m currently expanding my knowlege in Web Development
 - 👨‍💻 All of my projects are available at GitHub
