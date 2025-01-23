@@ -31,4 +31,8 @@
 
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniiar-pro&show_icons=true&theme=radical)
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniiar-pro&show_icons=true&theme=radical" alt="GitHub Stats" width="46%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daniiar-pro&theme=radical" alt="GitHub Streak" width="48%" />
+</div>
