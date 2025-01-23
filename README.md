@@ -32,11 +32,8 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniiar-pro&show_icons=true&theme=radical" alt="GitHub Stats" width="46%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=daniiar-pro&theme=radical" alt="GitHub Streak" width="48%" />
+<div align="center" style="width: 100%; max-width: 800px;">
+  <img src="https://leetcard.jacoblin.cool/daniiar-pro?theme=dark&font=Karma&ext=heatmap" 
+       alt="LeetCode Stats" 
+       style="width: 100%; height: 150px; object-fit: contain;">
 </div>
-
-## 🧑‍💻 LeetCode Profile
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/daniiar-pro?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/daniiar-pro)
